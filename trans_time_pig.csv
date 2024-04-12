@@ -1,0 +1,28 @@
+E_scale,S_scale,Event,PCD_lr,CI
+0.903,2.22682600803469,Cranial motor nuclei peak,27.29,2
+1.128,2.34396645255036,Red nucleus peak,36.62,2
+1.163,2.00681162315391,External capsule appears,28.223,3
+1.244,1.9978107961507,Cortical layer VI start,30,3
+1.248,2.3161662099403,Mammillo-thalamic tract appears,39.73,3
+1.25,2.39857815734041,Axons in optic stalk,42.84,2
+1.272,2.96961448095714,Globus pallidus peak,73.94,3
+1.302,1.82782600803469,Medial forebrain bundle appears,27.29,1
+1.305,1.76889629452335,Internal Capsule Appears - starts,26.046,3
+1.401,2.32541605764266,Superior colliculi peak,45.95,1
+1.421,3.13896359315001,Entorhinal cortex peak,100,2
+1.421,2.30541605764266,Substantia nigra peak,45.95,1
+1.422,1.8198107961507,Cortical layer V start,30,3
+1.463,1.70681162315391,Septal nuclei peak,28.223,1
+1.519,2.0451662099403,Optic fibers travel into superior colliculus,39.73,3
+1.573,1.79739447250711,Fornix appears,33.51,3
+1.596,2.22346902381754,Cortical layer VI end,50,3
+1.607,2.21246902381754,Cortical layer IV start,50,3
+1.617,2.18163031807306,Dentate gyrus peak,49.06,2
+1.62,1.54981162315391,Anterior commissure appears,28.223,3
+1.681,2.13846902381754,Cortical layer II/III start,50,3
+1.689,2.13046902381754,Cortical layer V end,50,3
+1.711,1.93757815734041,Hippocampal commisure appears,42.84,1
+1.742,2.00663310851305,Corpus Callosum appears,46.883,3
+1.839,2.3442707714165,Cortical layer IV end,70,3
+1.929,2.2542707714165,Cortical layer II/III end,70,3
+2.546,2.16874182241738,Development of the eye,116,3
